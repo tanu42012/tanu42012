@@ -7,7 +7,7 @@
 🌍 Passionate about building clean, scalable, and user-friendly web applications.
 
 ---
-<img src="https://github.com/tanu42012/tanu42012/raw/main/pexels-mikhail-nilov-7988081.jpg" width="700" height='350' />
+<img src="https://github.com/tanu42012/tanu42012/blob/main/pexels-ann-h-45017-32342294.jpg" width="700" height='350' />
 
 ## 🚀 Tech Stack
 
