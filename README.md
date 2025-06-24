@@ -1,4 +1,4 @@
-<img src="https://github.com/tanu42012/tanu42012/raw/main/pexels-mikhail-nilov-7988081.jpg" width="500" />
+<img src="https://github.com/tanu42012/tanu42012/raw/main/pexels-mikhail-nilov-7988081.jpg" width="700" height='350' />
 
 
 # 👋 Hi, I'm Sanjib Kumar Shil
