@@ -1,4 +1,4 @@
-![Banner](https://i.ibb.co/vYnBkm6/github-banner.png)
+![Banner](https://github.com/tanu42012/tanu42012/blob/main/pexels-mikhail-nilov-7988081.jpg)
 
 # 👋 Hi, I'm Sanjib Kumar Shil
 
