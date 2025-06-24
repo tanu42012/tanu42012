@@ -52,7 +52,7 @@
 
 - 🔗 [LinkedIn](https://www.linkedin.com/) *(replace with your real link)*
 - 🌐 Portfolio: *your-portfolio-link.com* *(optional)*
-- 📬 Email: *your.email@example.com*
+- 📬 Email: *sanjibks03@gmail.com*
 
 ---
 
